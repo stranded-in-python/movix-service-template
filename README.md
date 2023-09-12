@@ -1,18 +1,14 @@
 # Movix-Notification Service
 
-# What is this?
+## What is this?
 
-This is a notification service.
+## What does it do?
 
-# What does it do?
+## How do I use it?
 
-It sends notifications, using the RabbitMQ broker, FastAPI, Redis and Postgres to different notification channels.
+## How do I contribute?
 
-# How do I use it?
-
-# How do I contribute?
-
-# Authors
+## Authors
 
 [Stanislav aka @sbkubric Bogatskiy, teamlead](https://github.com/sbkubric)
 
